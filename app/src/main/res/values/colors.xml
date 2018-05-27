@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="results_background">#f4f4f4</color>
+    <color name="fat_pie_chart_color">#34F0FF</color>
+    <color name="carb_pie_chart_color">#418DFF</color>
+    <color name="protein_pie_chart_color">#30AAE8</color>
+</resources>

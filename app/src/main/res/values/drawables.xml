@@ -1,0 +1,5 @@
+<resources>
+
+    <item name="ic_dialog_email" type="drawable">@android:drawable/ic_dialog_email</item>
+
+</resources>
